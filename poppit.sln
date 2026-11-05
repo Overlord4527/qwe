@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.37502.7 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poppit", "poppit\poppit.csproj", "{12FA8A67-788E-45D7-B0F6-D88A2FA5025F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FA8A67-788E-45D7-B0F6-D88A2FA5025F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FA8A67-788E-45D7-B0F6-D88A2FA5025F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FA8A67-788E-45D7-B0F6-D88A2FA5025F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FA8A67-788E-45D7-B0F6-D88A2FA5025F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

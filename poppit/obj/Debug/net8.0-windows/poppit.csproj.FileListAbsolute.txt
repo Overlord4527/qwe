@@ -1,0 +1,16 @@
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.csproj.GenerateResource.cache
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.GeneratedMSBuildEditorConfig.editorconfig
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.AssemblyInfoInputs.cache
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.AssemblyInfo.cs
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.csproj.CoreCompileInputs.cache
+D:\poppit\poppit\bin\Debug\net8.0-windows\poppit.exe
+D:\poppit\poppit\bin\Debug\net8.0-windows\poppit.deps.json
+D:\poppit\poppit\bin\Debug\net8.0-windows\poppit.runtimeconfig.json
+D:\poppit\poppit\bin\Debug\net8.0-windows\poppit.dll
+D:\poppit\poppit\bin\Debug\net8.0-windows\poppit.pdb
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.Form1.resources
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.dll
+D:\poppit\poppit\obj\Debug\net8.0-windows\refint\poppit.dll
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.pdb
+D:\poppit\poppit\obj\Debug\net8.0-windows\poppit.genruntimeconfig.cache
+D:\poppit\poppit\obj\Debug\net8.0-windows\ref\poppit.dll
